@@ -1,11 +1,4 @@
-# 🔗 Trusted Setup
-
-See [here](../concepts/TrustedSetup.md) for an explanation of trusted setups and the role they play on Manta Network.  Read on for participation instructions.
-
-<div style={{textAlign: 'center'}}>
-    <img alt="Trusted Setup" src="/img/guides/trusted-setup-stages.svg" width="70%"/>
-</div>
-
+0x74d7c210670379ca0e2566bf70bC5FEb0A0f6cB2
 ## Support
 We're here to help! If you experience difficulty at any stage, please reach out to us on [Discord](https://discord.gg/AZTZvK7X).
 
@@ -17,13 +10,7 @@ We also have a [video tutorial](https://www.youtube.com/watch?v=libknEDADHY&ab_c
 > All other users please follow [these instructions](https://github.com/Manta-Network/manta-rs/tree/main/manta-trusted-setup) to build from source code.
 
 ### Mac, Linux Installation
-For a quick installation on Mac or Linux, open a terminal and enter the command
-```sh
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/Manta-Network/manta-rs/main/tools/install.sh | sh
-```
-followed by
-```sh
-source ~/.profile
+https://galxe.com/SnapFingersDAO/campaign/GCxg7UwESX
 ```
 To confirm that the installation worked, enter the command 
 ```sh
